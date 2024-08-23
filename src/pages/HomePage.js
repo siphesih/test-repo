@@ -31,7 +31,7 @@ const HomePage = () => {
   const contentStyle = {
     position: 'relative',
     zIndex: 2,
-  };
+  }; {/*why are you doing this*/}
 
   return (
     <div>
