@@ -1,0 +1,16 @@
+/* navbar.css */
+.navbar-custom {
+    background-color: #000000; /* Light blue background color */
+    color: #ffffff; /* White text color */
+  }
+  
+  .navbar-custom .navbar-brand,
+  .navbar-custom .nav-link {
+    color: #fffafa; /* White text color for brand and links */
+  }
+  
+  .navbar-custom .nav-link:hover {
+    color: #d0e7f9; /* Light blue color on hover for better visibility */
+    background-color: #000000; /* White background on hover for links */
+  }
+  
